@@ -65,4 +65,19 @@ Lesson1: Intro to Research Methods: {
 		and temporal memory score?
 		 ---> The more you sleep, the better your temporal memory score
 	}
+	22.Quiz: True or Not? {
+		Is it necessaryly true that if you go to bed early,
+		your memory will definitely be better tomorrow?
+		 ---> No,
+		Correlation does not prove causation.
+	}
+	23.Golden Arches Theory:
+		- Correlation does NOT IMPLY causation
+		- Thomas Friedman:
+			No 2 countries with a McDonald's hae ever
+			gone to war since opening the McDonald's
+			(Golden Arches Theory of Conflict Prevention)
+	24.McDonalds's
+	25.Quiz: World Peace: {
+	}
 }
