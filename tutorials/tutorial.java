@@ -80,4 +80,34 @@ Lesson1: Intro to Research Methods: {
 	24.McDonalds's
 	25.Quiz: World Peace: {
 	}
+	26.Causal Inference: {
+		- Show relationships -> Observational studies 
+							Surveys
+		- Show causation -> Controlled experiment
+	}
+	27.Quiz: Benefits of Surveys: {
+		- Easy way to get info on a population
+		- Relatively inexpensive
+		- Conducted remotely
+		- Anyone can access & analyze survey results
+		
+		Education Longitudinal Study:
+			Effort <-- Enjoy school, Value school,
+					Teachers, Gender, 
+	}
+	28.Quiz: Downsides of Surveys: {
+		- Untruthful responses
+		- Biased responses
+		- Respondents not understanding the questions
+		- Respondents refusing to answer
+	}
+	29.Quiz: Placebo: {
+		- Active pill, inactive pill -> people
+		- What is the purpose of the inactive pill?
+			+ To have a comparison group to those who took the active pill
+	}
+	30.Quiz: Blind: {
+		- Why are participants NOT told which pill they received?
+			+ To make them all believe they are receiving medication
+	}
 }
