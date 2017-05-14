@@ -109,5 +109,34 @@ Lesson1: Intro to Research Methods: {
 	30.Quiz: Blind: {
 		- Why are participants NOT told which pill they received?
 			+ To make them all believe they are receiving medication
+		
+		- Not letting the participants know which treatment they received 
+		is called 'Blinding'
+		
+		- In this case, "inactive pill" = "Placebo"
+	}
+	31.Quiz: Double Blind: {
+		- Sleep Lab
+		- Should the researchers observing quality of sleep know
+		which treatment participants received?
+			+ No, because if they know, their judgements may be biased.
+		---> Double blind: Neither participants nor Researchers know the 
+				treatment condition.
+	}
+	32.Quiz: Controlled Factors: {
+		- What factors did this experiment control for?
+			+ Time at which participants took the pill
+			+ The place at which participants sleep
+			+ What the pill look like
+	}
+	33.Random Assignment: {
+		- Gender
+		- Age
+	}
+	34.Quiz: Control for What? {
+		- If we did 2 memory tests on each person - one after sleeping a little,
+		the other after sleeping a lot - and compared the results, what would
+		we be controlling for?
+			- Variation in people's individual memory capabilities
 	}
 }
